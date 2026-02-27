@@ -19,7 +19,7 @@ Here is where you are going to ask the user to **input** 4 values:
 
 You may use any prompt you wish, but they should make sense.
 
-__Hint__: Don't forget that to have the user input a number, you must use the `int(input("Prompt here: "))` command.
+__Hint__: Don't forget that to have the user input a number, you must use the int("Prompt here: "))` command.
 
 ### Processing
 For each shape (circle, rectangle, octagon) calculate, then store in variables with good names, the area and perimeter.
